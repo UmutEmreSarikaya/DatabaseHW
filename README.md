@@ -5,11 +5,11 @@ Pazarama Android Bootcamp database ödevidir. Database'deki veriler listelenmekt
 
 <p align="center" >
 
-<img src="" width="200" height="400" hspace="20" >
+<img src="list.png" width="200" height="400" hspace="20" >
 
-<img src="" width="200" height="400" >
+<img src="add.png" width="200" height="400" >
 
-<img src="" width="200" height="400" hspace="20">
+<img src="new_list.png" width="200" height="400" hspace="20">
 
 </p>
 
