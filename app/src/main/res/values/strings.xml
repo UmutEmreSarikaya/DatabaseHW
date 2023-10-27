@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DatabaseHW</string>
+    <string name="title_activity_add_spare_part">AddSparePartActivity</string>
+</resources>
